@@ -48,8 +48,6 @@ Suh, M., Abraham, L., Hixon, J. G., & Proctor, D. M. (2014). The effects of perc
 
 King, L., Wang, Q., Xia, L., Wang, P., Jiang, G., Li, W., Huang, Y., Liang, X., Peng, X., Li, Y., Chen, L., & Liu, L. (2023). Environmental exposure to perchlorate, nitrate and thiocyanate, and thyroid function in Chinese adults: A community-based cross-sectional study. Environ Int, 171, 107713. https://doi.org/10.1016/j.envint.2022.107713
 
-Zhu, F., Huang, M., Jiao, J., Zhuang, P., Mao, L., & Zhang, Y. (2019). Environmental exposure to perchlorate, nitrate, and thiocyanate in relation to obesity: a population-based study. Environment international, 133, 105191.
-
 Leung, A. M., Braverman, L. E., He, X., Schuller, K. E., Roussilhes, A., Jahreis, K. A., & Pearce, E. N. (2012). Environmental perchlorate and thiocyanate exposures and infant serum thyroid function. Thyroid, 22(9), 938-943. https://doi.org/10.1089/thy.2012.0058
 
 Ucal, Y., Sahin, O. N., Serdar, M., Blount, B., Kumru, P., Muhcu, M., Eroglu, M., Akin-Levi, C., Keles, Z. Z. Y., Turam, C., Valentin-Blasini, L., Morel-Espinosa, M., Serteser, M., Unsal, I., & Ozpinar, A. (2018). Exposure to perchlorate in lactating women and its associations with newborn thyroid stimulating hormone. Frontiers in Endocrinology, 9(JUL). https://doi.org/10.3389/fendo.2018.00348
